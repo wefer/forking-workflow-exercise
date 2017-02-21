@@ -1,2 +1,2 @@
 def tweet():
-    return "The forking animation looked funny."
+    return "The forking animation looked funny!"
